@@ -133,7 +133,6 @@ def show_start_screen():
     pygame.display.flip()
     return start_button
 
-# نمایش صفحه‌ی شروع
 game_started = False
 start_button = show_start_screen()
 while not game_started:
