@@ -243,10 +243,4 @@ If you enjoyed the game, please consider giving the repository a ⭐.
 
 <br>
 
-## 👨‍💻 **Sadra Hatami**
-
-### Developer • Software Engineer • Creator
-
-⭐ If you like this project, don't forget to star the repository!
-
 </div>
